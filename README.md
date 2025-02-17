@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FF000000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shravan)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&background=FF000000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shravan" alt="Typing SVG">
+  </a>
+</p>
 <h3 align="center">A passionate AI/ML enthusiast and a student at IIITH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freshcoder-04&label=Profile%20views&color=0e75b6&style=flat" alt="freshcoder-04" /> </p>
