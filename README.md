@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freshcoder-04&show_icons=true&locale=en" alt="freshcoder-04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freshcoder-04&" alt="freshcoder-04" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freshcoder-04&" alt="freshcoder-04" /></p> -->
